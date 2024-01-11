@@ -1,4 +1,4 @@
-## 12 Books to become a better Software Engineer in 2024 (read 1 each month):
+## 12 Books to become a better Software Engineer in 2024 (Read 1 each month):
 - 1) Clean Code
 - 2) Refactoring
 - 3) Head First Design Patterns
